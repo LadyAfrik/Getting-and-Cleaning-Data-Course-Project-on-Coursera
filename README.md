@@ -12,7 +12,7 @@ The CodeBook.md file provides a comprehensive description of the variables, the 
 
 The run_analysis.R script conducts data preparation and follows the 5 steps outlined in the course project’s definition:
 
-1. Merge Training and Test Sets:
+1. **Merge Training and Test Sets**:
    - Combines the training and test datasets to create a unified dataset.
 
 2. **Extract Mean and Standard Deviation Measurements**:
